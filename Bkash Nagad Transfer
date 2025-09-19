@@ -1,0 +1,7 @@
+bkash-nagad-transfer/       ← Repository root
+├─ frontend/                ← All frontend files
+│   └─ index.html           ← Main HTML file
+├─ backend/                 ← Node.js backend files
+│   └─ server.js            ← Backend code
+├─ package.json             ← Node.js dependencies
+└─ README.md                ← Optional project description
